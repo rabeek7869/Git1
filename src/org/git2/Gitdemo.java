@@ -6,9 +6,6 @@ public class Gitdemo {
 		
 		System.out.println("first class");
 		System.out.println("first class");
-		System.out.println("first class");
-		System.out.println("first class");
-
 	}
 
 }
